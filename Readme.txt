@@ -55,12 +55,3 @@ Case considered:
 
     In the end, I always try to reduce the scanning file times. My DREAME was to only scan the input file once 
     (that's why I don't use list of array at first), but didn't find a way to achieve it.
-
-For TAs;
-    Hope this documentation is enough. I rushed to wirte the document, because I put tons of time on implementation,
-    if you think this documentation is too short, feel free reach me out by email devin.liu@mail.utoronto.ca.
-
-
-
-
-
